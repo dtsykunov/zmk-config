@@ -12,6 +12,7 @@
 #define LWR 1
 #define RSE 2
 #define ADJ 3
+
 #define ME_TEST (HID_USAGE(HID_USAGE_GD, HID_USAGE_KEY_KEYBOARD_A))
 
 / {
