@@ -5,7 +5,7 @@ manifest:
   projects:
     - name: zmk
       remote: zmkfirmware
-      revision: mouse-prototype-experiments
+      revision: mouse-prototype
       import: app/west.yml
   self:
     path: config
